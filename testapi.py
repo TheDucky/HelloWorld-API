@@ -2,7 +2,7 @@
 
 import requests
         
-req = requests.get("http://localhost:5500/APIs/HelloWorld.json")
+req = requests.get("https://theducky.github.io/HelloWorld-API/APIs/HelloWorld.json")
 dct = req.json()
 
 pst = dct["Python"]
