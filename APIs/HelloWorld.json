@@ -1,0 +1,17 @@
+{
+    "Python": [
+        {
+            "Code":"print(\"Hello World!\")"
+        }
+    ],
+
+    "Java": [
+        {
+            "Code":"System.out.println(\"Hello World!\")"
+        }
+    ]
+}   
+
+
+
+
