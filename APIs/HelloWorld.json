@@ -7,7 +7,7 @@
 
     "Java": [
         {
-            "Code":"System.out.println(\"Hello World!\")"
+            "Code":"public class Main {\n    public stativ void main(String[] args) {\n\tSystem.out.println(\"Hello World!\");\n    }\n}"
         }
     ]
 }   
