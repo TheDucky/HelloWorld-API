@@ -9,7 +9,7 @@
     "Java": [
         {
             "ln": 2,
-            "Code":"public class Main {\n    public stativ void main(String[] args) {\n\tSystem.out.println(\"Hello World!\");\n    }\n}"
+            "Code":"public class Main {\n    public static void main(String[] args) {\n\tSystem.out.println(\"Hello World!\");\n    }\n}"
         }
     ],
 
