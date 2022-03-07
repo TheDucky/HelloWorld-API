@@ -1,16 +1,75 @@
 {
     "Python": [
         {
+            "ln": 1,
             "Code":"print(\"Hello World!\")"
         }
     ],
 
     "Java": [
         {
+            "ln": 2,
             "Code":"public class Main {\n    public stativ void main(String[] args) {\n\tSystem.out.println(\"Hello World!\");\n    }\n}"
+        }
+    ],
+
+    "JavaScript": [
+        {
+            "ln": 3,
+            "Code":"console.log('Hello World!');"
+        }
+    ],
+
+    "C": [
+        {
+            "ln": 4,
+            "Code":"#include <stdio.h>\nint main()\n{\n    printf(\"Hello World!\");\n    return 0;\n}"
+        }
+    ],
+
+    "Rust": [
+        {
+            "ln": 5,
+            "Code":"fn main() {\n    println!(\"Hello World!\");\n}"
+        }
+    ],
+
+    "PHP": [
+        {
+            "ln": 6,
+            "Code":"echo \"Hello World!\";"
+        }
+    ],
+
+    "Go": [
+        {
+            "ln": 7,
+            "Code":"package main\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello World!\")\n}"
+        }
+    ],
+
+    "Swift": [
+        {
+            "ln": 8,
+            "Code":"print(\"Hello World!\")"
+        }
+    ],
+
+    "Ruby": [
+        {
+            "ln": 9,
+            "Code":"puts \"Hello World!\""
+        }
+    ],
+
+    "Bash": [
+        {
+            "ln": 10,
+            "Code":"echo 'Hello World!'"
         }
     ]
 }   
+
 
 
 
