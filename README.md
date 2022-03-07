@@ -44,7 +44,7 @@ You can make the structure however you want but the key files that are a must to
 2. Them make a basic webpage like so..
 ```html
 index.html
------------------------------------------------------------------------------------
+-----------
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +64,7 @@ index.html
 Example:
 ```json
 data.json
------------------------------------------------------------------------------------
+----------
 {
     "Python": [
         {
